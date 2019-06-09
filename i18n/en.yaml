@@ -175,6 +175,9 @@
 - id: pub_web
   translation: Web article
 
+- id: pub_presentation
+  translation: Presentation
+
 # Project details
 
 - id: open_project_site
