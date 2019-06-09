@@ -168,6 +168,12 @@
 
 - id: pub_patent
   translation: Patent
+  
+- id: pub_poster
+  translation: Poster
+  
+- id: pub_web
+  translation: Web article
 
 # Project details
 
